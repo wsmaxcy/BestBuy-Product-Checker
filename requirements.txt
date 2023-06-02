@@ -1,0 +1,2 @@
+playsound==1.2.2
+simplejson==3.18.0
