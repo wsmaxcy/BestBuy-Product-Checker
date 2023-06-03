@@ -33,4 +33,4 @@ Note: Please ensure that you have a working internet connection while running th
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
